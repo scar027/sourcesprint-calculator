@@ -1,4 +1,4 @@
-#sourcesprint-calculator
+# sourcesprint-calculator
 Calculator to calculate scores of participants during the event.
 
 ## Setup
